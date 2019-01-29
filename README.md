@@ -1,2 +1,4 @@
-# Blog
+# blog
+
+personal blog repository.
 
